@@ -19,13 +19,17 @@
 
 
 ## Programming Languages (Currently Learning)
-[![Golang](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00ADD8&style=for-the-badge)](https://golang.org/)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB&style=for-the-badge)](https://www.python.org/)
-[![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2&style=for-the-badge)](https://dart.dev/)
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26&style=for-the-badge)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6&style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Golang](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00ADD8&style=for-the-badge)](https://golang.org/)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white&style=for-the-badge)
+
+
+
+
 
 <!--
 **CLecart/CLecartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
