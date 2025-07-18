@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CLecart" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/CLecart?style=social" /></a>
+<a href="https://github.com/CLecart" target="_blank">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CLecart?style=flat-square" />
+</a>
 </p>
 
 ---
