@@ -5,6 +5,12 @@
   <a href="https://clecart.fr" target="_blank"><strong>🌐 clecart.fr</strong></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/christophe-lecart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contact@clecart.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://clecart.fr" target="_blank"><img src="./Favicon/logo.png" height="28" alt="Portfolio" /></a>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
@@ -37,39 +43,31 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CLecart&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🏗 Architecture & Design
 
-- **Microservices:** user-service, product-service, media-service  
-- **Event-driven:** Kafka for inter-service communication  
-- **Shared Library:** DTOs, common events, JWT filters, validation utilities  
-- **Clean Architecture & SOLID Principles**  
-- **Secure by Design:** JWT, BCrypt, HTTPS-ready, Role-based access (CLIENT / SELLER)  
+- **Microservices:** user-service, product-service, media-service
+- **Event-driven:** Kafka for inter-service communication
+- **Shared Library:** DTOs, common events, JWT filters, validation utilities
+- **Clean Architecture & SOLID Principles**
+- **Secure by Design:** JWT, BCrypt, HTTPS-ready, Role-based access (CLIENT / SELLER)
 
 ---
 
 ## 🔐 Security
 
-- JWT Authentication (stateless)  
-- BCrypt for secure password hashing  
-- HTTPS / SSL-ready configuration  
-- Role-based access control: CLIENT / SELLER  
-- Input validation & sanitization  
-- OWASP best practices followed  
+- JWT Authentication (stateless)
+- BCrypt for secure password hashing
+- HTTPS / SSL-ready configuration
+- Role-based access control: CLIENT / SELLER
+- Input validation & sanitization
+- OWASP best practices followed
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CLecart&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" width="500" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CLecart&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -77,25 +75,30 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CLecart&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CLecart&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CLecart&theme=tokyonight&utcOffset=1" />
+</p>
+
 ---
 
 ## 🧠 Currently Learning
 
-- Fullstack apps with **Next.js App Router**  
-- Advanced **Prisma ORM** patterns & DB design  
-- Schema validation & API security with **Zod**  
-- Backend architecture with **Node.js**, **Go**, **Java / Spring**  
-- Microservices & Event-driven patterns with Kafka  
+- Fullstack apps with **Next.js App Router**
+- Advanced **Prisma ORM** patterns & DB design
+- Schema validation & API security with **Zod**
+- Backend architecture with **Node.js**, **Go**, **Java / Spring**
+- Microservices & Event-driven patterns with Kafka
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Full stack dev student (Level 6 diploma)  
-- 🌍 France | 43 y.o | Career switcher  
-- 🔑 Working on a social network with auth, dashboard, stories, and media handling  
-- ✨ Passion for clean code, modern UI/UX, minimalism  
-- 🔗 Portfolio: [clecart.fr](https://clecart.fr)  
+- 🎓 Full stack dev student (Level 6 diploma)
+- 🌍 France | 43 y.o | Career switcher
+- 🔑 Working on a social network with auth, dashboard, stories, and media handling
+- ✨ Passion for clean code, modern UI/UX, minimalism
+- 🔗 Portfolio: [clecart.fr](https://clecart.fr)
 
 ---
 
