@@ -95,7 +95,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Full stack dev student (Level 6 diploma)
-- 🌍 France | 43 y.o | Career switcher
+- 🌍 France | 44 y.o | Career switcher
 - 🔑 Working on a social network with auth, dashboard, stories, and media handling
 - ✨ Passion for clean code, modern UI/UX, minimalism
 - 🔗 Portfolio: [clecart.fr](https://clecart.fr)
