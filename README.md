@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Christophe Lecart 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | React ⚛️ | TypeScript 🧠 | Go 🚀 | Java ☕</b><br/>
+  <b>Software Engineer in Training | Full Stack | Architecture | AI & Green IT</b><br/>
   <a href="https://clecart.fr" target="_blank"><strong>🌐 clecart.fr</strong></a>
 </p>
 
@@ -24,43 +24,53 @@
   <img src="https://img.shields.io/badge/RxJS-BB0000?style=for-the-badge&logo=reactivex&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
 <p align="center">
   <!-- DevOps / Infra -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🏗 Architecture & Design
+## 🏗 Architecture & Engineering
 
-- **Microservices:** user-service, product-service, media-service
-- **Event-driven:** Kafka for inter-service communication
-- **Shared Library:** DTOs, common events, JWT filters, validation utilities
-- **Clean Architecture & SOLID Principles**
-- **Secure by Design:** JWT, BCrypt, HTTPS-ready, Role-based access (CLIENT / SELLER)
+- Microservices architecture (modular & scalable systems)
+- Event-driven systems (Kafka)
+- Clean Architecture & SOLID principles
+- API design (REST / GraphQL)
+- Secure-by-design applications (JWT, RBAC)
 
 ---
 
-## 🔐 Security
+## 🔐 Security & Quality
 
-- JWT Authentication (stateless)
-- BCrypt for secure password hashing
-- HTTPS / SSL-ready configuration
-- Role-based access control: CLIENT / SELLER
-- Input validation & sanitization
-- OWASP best practices followed
+- Authentication & authorization (JWT, role-based access control)
+- Secure coding practices (OWASP principles)
+- Code quality & maintainability
+- Testing & validation strategies
+
+---
+
+## 🤖 AI & Green IT
+
+- Integration of AI features (chatbots, automation)
+- Python-based scripting & automation
+- Exploration of LLM-based workflows
+- Green IT / sustainable software engineering practices
+- Optimization of system performance & resource usage
 
 ---
 
@@ -70,36 +80,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CLecart&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CLecart&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CLecart&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CLecart&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CLecart&theme=tokyonight&utcOffset=1" />
-</p>
-
 ---
 
 ## 🧠 Currently Learning
 
-- Fullstack apps with **Next.js App Router**
-- Advanced **Prisma ORM** patterns & DB design
-- Schema validation & API security with **Zod**
-- Backend architecture with **Node.js**, **Go**, **Java / Spring**
-- Microservices & Event-driven patterns with Kafka
+- Advanced system architecture & scalability
+- Secure backend design (Node.js, Go, Spring)
+- AI integration in web applications
+- Python for automation & backend tooling
+- Modern frontend architecture (Next.js App Router)
+- Green IT & software efficiency optimization
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Full stack dev student (Level 6 diploma)
-- 🌍 France | 44 y.o | Career switcher
-- 🔑 Working on a social network with auth, dashboard, stories, and media handling
-- ✨ Passion for clean code, modern UI/UX, minimalism
+- 🎓 Software engineering student (Bac+5 – Level 7)
+- 🌍 France | Career switcher from technical engineering
+- 🧠 Passion for architecture, clean code & system design
+- 🚀 Building modern, scalable and efficient applications
 - 🔗 Portfolio: [clecart.fr](https://clecart.fr)
 
 ---
 
-<p align="center"><i>"Code is poetry. Let's make it beautiful."</i></p>
+<p align="center"><i>"Building software like systems: clean, scalable, and efficient."</i></p>
