@@ -9,9 +9,9 @@
       <a href="https://www.linkedin.com/in/christophe-lecart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-
   badge&logo=linkedin&logoColor=white" /></a>
       <a href="mailto:contact@clecart.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    
       <a href="https://clecart.fr" target="_blank"><img src="./Favicon/logo.png" height="28" alt="Portfolio" /></a>
     </p>
+    
     ---
     
     ## 🚀 Tech Stack
@@ -56,10 +56,10 @@
     
     ---
     
-    - Authentication & authorization (JWT, role-based access control)
-    - Secure coding practices (OWASP principles)
     ## 🔐 Security & Quality
     
+    - Authentication & authorization (JWT, role-based access control)
+    - Secure coding practices (OWASP principles)
     - Code quality & maintainability
     - Testing & validation strategies
     
@@ -78,7 +78,7 @@
     ## 📈 GitHub Stats
     
     <p align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CLecart&theme=tokyonight&v=1" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CLecart&theme=tokyonight" />
     </p>
     
     ---
