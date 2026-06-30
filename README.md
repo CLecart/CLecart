@@ -77,10 +77,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CLecart&theme=tokyonight" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CLecart&theme=tokyonight&utcOffset=1" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 ---
